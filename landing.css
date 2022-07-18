@@ -1,0 +1,106 @@
+.bluetop{
+    position: absolute;
+width: 1512px;
+height: 89px;
+left: 0px;
+top: 0px;
+
+background: #1E81B0;
+}
+.logo{
+    position: absolute;
+width: 96px;
+height: 42px;
+left: 252px;
+top: 18px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 42px;
+
+color: #FFFFFF;
+}
+.home{
+    position: absolute;
+    width: 210px;
+    height: 41px;
+    left: 447px;
+    top: 29px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #FFFFFF;
+}
+.help{
+    position: absolute;
+    width: 50px;
+    height: 28px;
+    left: 632px;
+    top: 27px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #FFFFFF;
+}
+.settings{
+    position: absolute;
+    width: 88px;
+    height: 28px;
+    left: 821px;
+    top: 29px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #FFFFFF;
+}
+
+.greenbox{
+
+position: absolute;
+width: 1065px;
+height: 602px;
+left: 223px;
+top: 248px;
+
+background: #ABDBE3;
+border-radius: 10px;
+}
+
+.username{
+    position: absolute;
+width: 798px;
+height: 57px;
+left: 364px;
+top: 347px;
+
+background: #FFFFFF;
+border-radius: 50px;
+
+}
+
+.password{
+
+position: absolute;
+width: 798px;
+height: 57px;
+left: 364px;
+top: 462px;
+
+background: #FFFFFF;
+border-radius: 50px;
+
+}
